@@ -2,7 +2,7 @@
 
 A script for optimising images kept in Supabase storage.
 
-It compresses image files and re-uploads them to Supabase.
+Converts image files to `.webp` and re-uploads them to Supabase.
 
 ## Usage
 
