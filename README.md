@@ -1,4 +1,4 @@
-# Supabase Images Optimiser
+# Supabase Image Optimiser
 
 A script for optimising images kept in Supabase storage.
 
