@@ -1,6 +1,6 @@
 {
   "name": "supabase-image-optimiser",
-  "version": "1.0.8",
+  "version": "1.0.0",
   "description": "A script for optimising images kept in Supabase storage.",
   "main": "index.js",
   "author": "Alex Mendes",
